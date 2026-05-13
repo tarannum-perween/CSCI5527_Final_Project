@@ -1,0 +1,8 @@
+FINAL PROJECTION SUMMARY
+=======================
+Title: Real-World Performance
+Overall Accuracy: 60.45%
+- Open Space: 54.21%
+- Caution Zone: 49.88%
+- Narrow Corridor: 58.32%
+- Dynamic: 61.45%

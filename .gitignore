@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+# Optional: Uncomment if you don't want to upload the large data files
+# scene_classifier/data/
+# scene_classifier/checkpoints/
