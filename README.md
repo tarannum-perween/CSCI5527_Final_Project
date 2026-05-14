@@ -69,6 +69,16 @@ To bridge this gap, we implemented two critical preprocessing layers in the infe
 
 ---
 
+## Demonstration Videos
+Real-world demonstrations of the Scene Classifier running on the AgileX robot:
+
+*   [**Open Space Demonstration**](videos/Free_space.mp4): Robot navigating at high velocity in unobstructed areas.
+*   [**Narrow Corridor Demonstration**](videos/Narrow_corridor.mp4): Precise navigation and wall-following behavior.
+*   [**Caution Zone Demonstration**](videos/Caution_zone.mp4): Adaptive speed reduction in cluttered environments.
+*   [**Dynamic Obstacle Demonstration**](videos/Dynamic_obstacle.mp4): Proactive braking and safety maneuvers around moving obstacles.
+
+---
+
 ## Usage
 
 ### Prerequisites
